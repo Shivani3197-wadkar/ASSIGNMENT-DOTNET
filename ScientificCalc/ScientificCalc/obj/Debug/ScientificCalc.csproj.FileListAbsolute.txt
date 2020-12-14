@@ -1,0 +1,9 @@
+c:\users\test\documents\visual studio 2015\Projects\ScientificCalc\ScientificCalc\bin\Debug\ScientificCalc.exe.config
+c:\users\test\documents\visual studio 2015\Projects\ScientificCalc\ScientificCalc\bin\Debug\ScientificCalc.exe
+c:\users\test\documents\visual studio 2015\Projects\ScientificCalc\ScientificCalc\bin\Debug\ScientificCalc.pdb
+c:\users\test\documents\visual studio 2015\Projects\ScientificCalc\ScientificCalc\obj\Debug\ScientificCalc.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2015\Projects\ScientificCalc\ScientificCalc\obj\Debug\ScientificCalc.Form1.resources
+c:\users\test\documents\visual studio 2015\Projects\ScientificCalc\ScientificCalc\obj\Debug\ScientificCalc.Properties.Resources.resources
+c:\users\test\documents\visual studio 2015\Projects\ScientificCalc\ScientificCalc\obj\Debug\ScientificCalc.csproj.GenerateResource.Cache
+c:\users\test\documents\visual studio 2015\Projects\ScientificCalc\ScientificCalc\obj\Debug\ScientificCalc.exe
+c:\users\test\documents\visual studio 2015\Projects\ScientificCalc\ScientificCalc\obj\Debug\ScientificCalc.pdb

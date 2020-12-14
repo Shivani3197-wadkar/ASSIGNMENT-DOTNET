@@ -1,0 +1,7 @@
+C:\Users\shiva\source\repos\currency controller\currency controller\bin\Debug\currency controller.exe.config
+C:\Users\shiva\source\repos\currency controller\currency controller\bin\Debug\currency controller.exe
+C:\Users\shiva\source\repos\currency controller\currency controller\bin\Debug\currency controller.pdb
+C:\Users\shiva\source\repos\currency controller\currency controller\obj\Debug\currency controller.csprojAssemblyReference.cache
+C:\Users\shiva\source\repos\currency controller\currency controller\obj\Debug\currency controller.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\currency controller\currency controller\obj\Debug\currency controller.exe
+C:\Users\shiva\source\repos\currency controller\currency controller\obj\Debug\currency controller.pdb

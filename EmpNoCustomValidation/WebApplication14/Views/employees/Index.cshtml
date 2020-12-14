@@ -1,0 +1,69 @@
+﻿@model IEnumerable<WebApplication14.Models.employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.empname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.salary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hra)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.pf)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.grosssalary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.deptno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tax)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.empname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.salary)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.hra)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.pf)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.grosssalary)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.deptno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tax)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.empno }) |
+            @Html.ActionLink("Details", "Details", new { id=item.empno }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.empno })
+        </td>
+    </tr>
+}
+
+</table>

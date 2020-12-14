@@ -1,0 +1,6 @@
+c:\users\test\documents\visual studio 2015\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe.config
+c:\Users\test\Documents\Visual Studio 2015\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe
+c:\Users\test\Documents\Visual Studio 2015\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.pdb
+c:\Users\test\Documents\Visual Studio 2015\Projects\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.csprojResolveAssemblyReference.cache
+c:\Users\test\Documents\Visual Studio 2015\Projects\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.exe
+c:\Users\test\Documents\Visual Studio 2015\Projects\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.pdb

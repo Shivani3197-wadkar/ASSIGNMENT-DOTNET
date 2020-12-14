@@ -1,0 +1,10 @@
+C:\Users\test.PRAGMASYSLLP\source\repos\scientific calcs\scientific calcs\bin\Debug\scientific calcs.exe.config
+C:\Users\test.PRAGMASYSLLP\source\repos\scientific calcs\scientific calcs\bin\Debug\scientific calcs.exe
+C:\Users\test.PRAGMASYSLLP\source\repos\scientific calcs\scientific calcs\bin\Debug\scientific calcs.pdb
+C:\Users\test.PRAGMASYSLLP\source\repos\scientific calcs\scientific calcs\obj\Debug\scientific calcs.csprojAssemblyReference.cache
+C:\Users\test.PRAGMASYSLLP\source\repos\scientific calcs\scientific calcs\obj\Debug\scientific_calcs.Form1.resources
+C:\Users\test.PRAGMASYSLLP\source\repos\scientific calcs\scientific calcs\obj\Debug\scientific_calcs.Properties.Resources.resources
+C:\Users\test.PRAGMASYSLLP\source\repos\scientific calcs\scientific calcs\obj\Debug\scientific calcs.csproj.GenerateResource.cache
+C:\Users\test.PRAGMASYSLLP\source\repos\scientific calcs\scientific calcs\obj\Debug\scientific calcs.csproj.CoreCompileInputs.cache
+C:\Users\test.PRAGMASYSLLP\source\repos\scientific calcs\scientific calcs\obj\Debug\scientific calcs.exe
+C:\Users\test.PRAGMASYSLLP\source\repos\scientific calcs\scientific calcs\obj\Debug\scientific calcs.pdb
